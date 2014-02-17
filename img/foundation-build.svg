@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800px" height="600px" viewBox="0 0 800 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>devices</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <filter x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="30" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+        <filter x="-20%" y="-20%" width="140%" height="140%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="10" in="SourceGraphic" result="blur"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="devices" sketch:type="MSArtboardGroup">
+            <rect id="background" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="800" height="600"></rect>
+            <g id="iMac" sketch:type="MSLayerGroup" transform="translate(115.000000, 72.000000)">
+                <path d="M216,396 L210,444 L360,444 L354,396 L216,396 Z" id="Rectangle-2" fill="#CCCCCC" sketch:type="MSShapeGroup"></path>
+                <path d="M557.996168,396.030656 C564.625701,396.030656 570,390.657996 570,384.030702 L570,12.0306102 C570,5.40321865 564.631608,0.0306562495 557.996168,0.0306562495 L12.003832,0.0306562495 C5.37429866,0.0306562495 2.45391576e-14,5.40331638 2.41228319e-14,12.0306102 L7.53835516e-16,384.030702 C3.37503656e-16,390.658094 5.36839179,396.030656 12.003832,396.030656 L557.996168,396.030656 Z" id="Rectangle-1-copy-2" fill="#000000" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                <path d="M557.996168,396.030656 C564.625701,396.030656 570,390.657996 570,384.030702 L570,12.0306102 C570,5.40321865 564.631608,0.0306562495 557.996168,0.0306562495 L12.003832,0.0306562495 C5.37429866,0.0306562495 2.45391576e-14,5.40331638 2.41228319e-14,12.0306102 L7.53835516e-16,384.030702 C3.37503656e-16,390.658094 5.36839179,396.030656 12.003832,396.030656 L557.996168,396.030656 Z" id="Rectangle-1-copy-2" fill="#DDDDDD" sketch:type="MSShapeGroup"></path>
+                <path d="M2.13162821e-14,12.0306102 C2.13162821e-14,5.40331638 5.37204291,0.0306559718 11.9987937,0.0306556292 L27.2226549,0.0306562495 L557.99438,0.0306562495 C564.62417,0.0306562495 570,5.40321865 570,12.0306102 L570,342 L0,342 L2.13162821e-14,12.0306102 Z" id="Path" fill="#222222" sketch:type="MSShapeGroup"></path>
+                <path d="M381.005147,456 C384.316013,456 387,453.306966 387,450 L387,450 C387,446.686292 384.308391,444 381.005147,444 L188.994853,444 C185.683987,444 183,446.693034 183,450 L183,450 C183,453.313708 185.691609,456 188.994853,456 L381.005147,456 Z" id="Rectangle-1-copy-4" fill="#000000" filter="url(#filter-2)" sketch:type="MSShapeGroup"></path>
+                <path d="M381.005147,456 C384.316013,456 387,453.306966 387,450 L387,450 C387,446.686292 384.308391,444 381.005147,444 L188.994853,444 C185.683987,444 183,446.693034 183,450 L183,450 C183,453.313708 185.691609,456 188.994853,456 L381.005147,456 Z" id="Rectangle-1-copy-4" fill="#DDDDDD" sketch:type="MSShapeGroup"></path>
+                <path d="M285,384 C293.284272,384 300,377.284272 300,369 C300,360.715728 293.284272,354 285,354 C276.715728,354 270,360.715728 270,369 C270,377.284272 276.715728,384 285,384 Z" id="Oval-1" fill="#222222" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-3" fill="#B6E685" sketch:type="MSShapeGroup" x="21" y="21" width="528" height="300"></rect>
+            </g>
+            <g id="iPad" sketch:type="MSLayerGroup" transform="translate(145.000000, 276.000000)">
+                <path d="M0,272.996069 C0,277.968803 4.02722298,282 9.00625169,282 L206.993748,282 C211.967764,282 216,277.972958 216,272.996069 L216,9.00393114 C216,4.03119729 211.972777,0 206.993748,0 L9.00625169,0 C4.03223623,0 0,4.02704244 0,9.00393114 L0,272.996069 Z" id="Rectangle-1-copy" fill="#222222" sketch:type="MSShapeGroup"></path>
+                <rect id="Rectangle-4" fill="#FBA617" sketch:type="MSShapeGroup" x="21" y="30" width="174" height="222"></rect>
+                <circle id="Oval-2" fill="#666666" sketch:type="MSShapeGroup" cx="108" cy="267" r="6"></circle>
+                <circle id="Oval-3" fill="#666666" sketch:type="MSShapeGroup" cx="108" cy="15" r="3"></circle>
+            </g>
+            <g id="iPhone" sketch:type="MSLayerGroup" transform="translate(299.000000, 424.000000)">
+                <rect id="Rectangle-1" fill="#222222" sketch:type="MSShapeGroup" x="0" y="0" width="72" height="144"></rect>
+                <rect id="Rectangle-5" fill="#3892E3" sketch:type="MSShapeGroup" x="6" y="18" width="60" height="108"></rect>
+                <circle id="Oval-4" fill="#666666" sketch:type="MSShapeGroup" cx="36" cy="135" r="4"></circle>
+                <rect id="Rectangle-6" fill="#666666" sketch:type="MSShapeGroup" x="28" y="7" width="16" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
